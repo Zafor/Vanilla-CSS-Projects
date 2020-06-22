@@ -1,2 +1,2 @@
 # Vanilla-CSS-Projects
-#A Directory of all of my pure css projects
+A Directory of all of my pure css projects
